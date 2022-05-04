@@ -1,0 +1,22 @@
+.gitignore
+https://github.com/github/gitignore
+I wanted to understand more about .gitignore to be able to understand what is happening with it. I know .gitignore exists for each type of project, but I'd still like to see how it works
+
+Machine Learning
+https://github.com/josephmisiti/awesome-machine-learning
+Machine learning has always interested me and I would like to learn more about how to use existing algorithms or make my own for my own needs.
+
+Personal Assistant
+https://github.com/mmirthula02/AI-Personal-Voice-assistant-using-Python
+I have been looking into making a personal assistant fine tuned to me, and speaking to it would be necessary.
+
+SQL Attack
+https://github.com/NetSPI/PowerUpSQL
+I've always been curious about ethical hacking, and this tool could give me ideas on how they work and maybe I could make my own version
+
+AI Generated text adventure
+https://github.com/nickwalton/AI-DungeonMaster
+I want to see how the AI works to learn more about AI.
+
+
+
